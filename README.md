@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Bhong</h1>
 <h3 align="center">I am a TECH enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurbhong&label=Profile%20views&color=0e75b6&style=flat" alt="mayurbhong" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurbhong" alt="mayurbhong" /></a> </p>
-
 - 🔭 I’m currently working on **𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽**
 
 - 👯 I’m looking to collaborate on **𝖎𝖓𝖙𝖊𝖗𝖓𝖘𝖍𝖎𝖕**
