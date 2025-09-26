@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![MasterHead](https://github.com/user-attachments/assets/0335ee7f-32cf-41a5-81b0-3d3f923a3a7f)
 <h1 align="center">Hi 👋, I'm Mayur Bhong</h1>
 
 <p align="center">
