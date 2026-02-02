@@ -33,8 +33,6 @@ I’m currently seeking an opportunity to grow as a **software or cloud engineer
 
 ## 🧰 Tech Stack
 
-<p align="center"><strong>My Tech Stack</strong></p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,java,nodejs,express,mongodb,mysql,git&theme=dark" />
 </p>
