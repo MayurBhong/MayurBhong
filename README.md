@@ -8,11 +8,11 @@
 
 Hi, I’m **Mayur Bhong** 👋  
 
-I’m an entry-level software professional with a strong interest in **cloud computing and AWS** ☁️. I have hands-on experience with core programming concepts, basic system design, and deploying simple applications using cloud services.
+**Cloud** professional with a strong focus on **AWS** and scalable infrastructure. I have hands on experience designing and deploying cloud environments using core AWS services and Infrastructure as Code.
 
-I enjoy learning how **scalable systems** are built and maintained 🧩, and I’m actively strengthening my skills in **AWS services**, **cloud security fundamentals** 🔐, and **automation** ⚙️. I’m comfortable working with modern development tools, collaborating in team environments 🤝, and quickly adapting to new technologies.
+I work with services such as EC2, S3, VPC, IAM, RDS, and Lambda, and build automated workflows using **Terraform** and **CI/CD pipelines**. I understand cloud architecture fundamentals, security best practices, and system reliability.
 
-I’m currently seeking an opportunity to grow as a **software or cloud engineer** 🚀, contribute to real-world projects, and learn from experienced professionals while delivering **reliable and efficient solutions**.
+I am continuously strengthening my skills in cloud automation, monitoring, and cost optimization. I am seeking an opportunity where I can contribute to real world cloud projects, improve platform performance, and deliver secure and efficient solutions.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="animated-line" />
