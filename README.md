@@ -67,7 +67,7 @@ I am continuously strengthening my skills in cloud automation, monitoring, and c
   <a href="https://www.linkedin.com/in/mayur-bhong-446a472a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@artgallery-xr5uy">
+  <a href="https://www.youtube.com/@artgallery-mb">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
